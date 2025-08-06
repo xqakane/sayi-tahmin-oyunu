@@ -1,4 +1,4 @@
-# Sayı Tahmin Oyunu 🎯
+## Sayı Tahmin Oyunu 🎯
 *A Simple Number Guessing Game in Python*
 
 ## Türkçe Açıklama
@@ -27,6 +27,6 @@ Run the following command in your terminal (Python must be installed):
 ```bash
 python sayi_tahmin.py
 
-Geliştiren / Developer
+## Geliştiren / Developer
 Ezgi Naz
-GitHub Profilim/My GitHub Profile:(https://github.com/xqakane) 
+GitHub Profilim/My GitHub Profile: [https://github.com/xqakane](https://github.com/xqakane)
