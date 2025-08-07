@@ -12,6 +12,13 @@ Program, tahminin büyük mü küçük mü olduğunu söyleyerek yönlendirir.
 
 ---
 
+## 📌 Bu proje Python öğrenme sürecimin bir parçasıdır. 
+Kod yapısını anlamak amacıyla ChatGPT desteğiyle oluşturulmuş örnek bir oyun kodudur. 
+Kodu çalıştırarak, değiştirerek ve kendi yorumlarımı ekleyerek öğrenmeye çalıştım.
+İleride geliştirmeyi ve kendi özelliklerimi eklemeyi hedefliyorum.
+
+---
+
 ## 🚀 Nasıl Çalıştırılır
 
 Python yüklü sistemlerde şu komut ile çalıştırabilirsiniz:
@@ -26,6 +33,12 @@ This project is a simple number guessing game written in Python.
 The computer picks a random number between 1 and 100.
 The user tries to guess the number.
 The program gives hints whether the guess is too high or too low.
+
+---
+
+##📌 This project is part of my Python learning journey.
+It was created with help from ChatGPT, to understand how basic game logic works.
+I rewrote and tested the code to learn better and plan to improve it with my own features later on.
 
 ---
 
